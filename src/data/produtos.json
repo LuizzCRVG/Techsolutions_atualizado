@@ -1,0 +1,74 @@
+[
+{
+"id":1,
+"nome":"Sistemas de armazenamento em nuvem corporativo",
+"imagem":"https://static3.convex.com.br/wp-content/uploads/2018/03/nuvem-corporativa-como-funciona-o-armazenamento-em-nuvem-20180302132339.jpg-1024x684.jpg",
+"descricao":"Permitem guardar, acessar e compartilhar arquivos da empresa com segurança pela internet."
+},
+{
+"id":2,
+"nome":"Plataformas de backup e recuperação de dados",
+"imagem":"https://www.valuehost.com.br/blog/wp-content/uploads/2018/07/218770-backup-e-restauracao-o-que-e-e-qual-a-importancia.png",
+"descricao":"Realizam cópias automáticas dos dados da empresa e permitem restaurá-los em caso de perda ou falha."
+},
+{
+"id":3,
+"nome":"Sistemas ERP para gestão financeira",
+"imagem":"https://t4isolutions.com/wp-content/uploads/2023/07/sistema-erp.png",
+"descricao":"Centralizam o controle de finanças, faturamento, contas a pagar e a receber em um único sistema."
+},
+{
+"id":4,
+"nome":"Sistemas ERP para controle logístico e estoque",
+"imagem":"https://neilpatel.com/wp-content/uploads/2019/11/melhor-erp-para-sua-empresa.jpeg",
+"descricao":"Gerenciam estoque, pedidos, transporte e distribuição de produtos."
+},
+{
+"id":5,
+"nome":"Sistemas CRM para gestão de vendas",
+"imagem":"https://blog.nectarcrm.com.br/content/images/2020/12/o-que-e-crm-vantagens-erp-crm-nectarrm.png",
+"descricao":"Ajudam equipes comerciais a organizar contatos, acompanhar oportunidades e fechar negócios."
+},
+{
+"id":6,
+"nome":"Sistemas CRM para relacionamento e suporte ao cliente",
+"imagem":"https://staff.admin.ox.ac.uk/sites/default/files/staff/images/media/customer_relationship_management_crm_platform_1.png",
+"descricao":"Registram interações com clientes e auxiliam no atendimento e na resolução de problemas."
+},
+{
+"id":7,
+"nome":"Plataformas de colaboração interna para equipes",
+"imagem":"https://grupomovx.com/wp-content/uploads/2025/09/baixados-1-1024x649.png",
+"descricao":"Facilitam a comunicação, troca de arquivos e trabalho conjunto entre funcionários."
+},
+{
+"id":8,
+"nome":"Sistemas de gestão de projetos e tarefas",
+"imagem":"https://s2-techtudo.glbimg.com/_LhhiZOqctA3JuInpmBC7ICyo6g=/0x0:2232x1533/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/d/Q/FsVNvaRLe8hpqrNZyG2w/asana.png",
+"descricao":"Permitem planejar projetos, distribuir tarefas e acompanhar o progresso das equipes."
+},
+{
+"id":9,
+"nome":"Plataformas de comunicação corporativa",
+"imagem":"https://accelere.se/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-06-at-13.42.34.jpeg",
+"descricao":"Oferecem chat, chamadas e reuniões online para comunicação rápida dentro da empresa."
+},
+{
+"id":10,
+"nome":"Plataformas de automação empresarial com IA",
+"imagem":"https://portalantenados.com.br/images/noticias/116425/570d6e31acaa2ef73f8d518e6632b7de.jpeg",
+"descricao":"Automatizam processos repetitivos usando inteligência artificial para aumentar a eficiência."
+},
+{
+"id":11,
+"nome":"Modelos de IA generativa personalizados para empresas",
+"imagem":"https://fcamara.com/blog/wp-content/uploads/2024/06/IA-Generativa-FCamara.png",
+"descricao":"Criam conteúdos, relatórios ou respostas automáticas adaptadas às necessidades do negócio."
+},
+{
+"id":12,
+"nome":"Sistemas de análise de dados e relatórios com IA",
+"imagem":"https://scinova.com.br/principal/wp-content/uploads/2025/02/dalle_scinova_1102_2025_diariosia.jpg",
+"descricao":"Analisam grandes volumes de dados e geram insights estratégicos para tomada de decisões."
+}
+]
